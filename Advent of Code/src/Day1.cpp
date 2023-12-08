@@ -1,5 +1,4 @@
 #include "Day1.h"
-#include <iostream>
 
 Day1::Day1(std::string filename) : _filename(filename)
 {
