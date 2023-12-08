@@ -9,7 +9,6 @@ public:
 	Day1(std::string filename);
 	int FirstPuzzle();
 	int SecondPuzzle();
-	bool FindNumber(std::string posibleWordNumber, int* firstNumber, int* lastNumber);
 private:
 	std::string _filename;
 	std::unordered_map<std::string, int> _wordToNumber = {
