@@ -8,7 +8,7 @@
 int main()
 {
 	Day2 day2("./data/day2.txt");
-	std::cout << day2.FirstPuzzle();
+	std::cout << day2.LastPuzzle();
 
 }
 
