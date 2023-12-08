@@ -1,6 +1,9 @@
 # Visual Studio folder
 /.vs
 
+# Compiler folder
+/x64
+
 # Prerequisites
 *.d
 
