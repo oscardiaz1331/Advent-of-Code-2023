@@ -12,5 +12,6 @@ private:
 public: 
 	Day4(std::string filename);
 	int FirstPuzzle();
+	int LastPuzzle();
 };
 
