@@ -3,12 +3,12 @@
 
 #include <iostream>
 
-#include "Day4.h"
+#include "Day5.h"
 
 int main()
 {
-	Day4 day("./data/day4.txt");
-	std::cout << day.LastPuzzle();
+	Day5 day("./data/day5.txt");
+	std::cout << day.FirstPuzzle();
 
 }
 

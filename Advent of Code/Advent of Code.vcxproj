@@ -24,12 +24,14 @@
     <ClCompile Include="src\Day2.cpp" />
     <ClCompile Include="src\Day3.cpp" />
     <ClCompile Include="src\Day4.cpp" />
+    <ClCompile Include="src\Day5.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\Day1.h" />
     <ClInclude Include="include\Day2.h" />
     <ClInclude Include="include\Day3.h" />
     <ClInclude Include="include\Day4.h" />
+    <ClInclude Include="include\Day5.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="data\day1.txt" />
