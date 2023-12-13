@@ -12,6 +12,7 @@ private:
 public:
 	Day6(std::string filename);
 	int FirstPuzzle();
-
+	int LastPuzzle();
+	int FindNDigits(int number);
 };
 
